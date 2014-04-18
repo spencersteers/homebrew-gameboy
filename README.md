@@ -1,20 +1,17 @@
 Homebrew-gameboy
 ================
 
-[Homebrew](http://brew.sh/) Tap for Game Boy development tools:
+[Homebrew](http://brew.sh/) tap for Game Boy development tools:
  - [ems-flasher](http://lacklustre.net/projects/ems-flasher/)
  - [rgbds](http://anthony.bentley.name/rgbds/)
 
 After installing homebrew just:
+
 ```bash
-  brew tap spencersteers/homebre-gameboy
-  brew install ems-flasher
-  brew install rgbds
+brew tap spencersteers/homebre-gameboy
+brew install ems-flasher
+brew install rgbds
 ```
-
-## Repo's
-
-Two projects commonly used for Game Boy development...
 
 ### Ems Flasher
 
