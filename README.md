@@ -8,7 +8,7 @@ Homebrew-gameboy
 After installing homebrew just:
 
 ```bash
-brew tap spencersteers/homebre-gameboy
+brew tap spencersteers/homebrew-gameboy
 brew install ems-flasher
 brew install rgbds
 ```
