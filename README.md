@@ -1,12 +1,14 @@
 homebrew-gameboy
 ================
 
-Tap for gameboy development tools
+Tap for Game Boy development tools:
+ - [ems-flasher](http://lacklustre.net/projects/ems-flasher/)
+ - [rgbds](http://anthony.bentley.name/rgbds/)
 
 
 ## Repo's
 
-Two projects are commonly used for Game Boy development:
+Two projects commonly used for Game Boy development...
 
 ### Ems Flasher
 
