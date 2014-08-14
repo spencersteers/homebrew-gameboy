@@ -23,7 +23,13 @@ Written by Mike Ryan mikeryan@lacklustre.net and modified by Randy Thiemann usel
  - Project Home: [http://lacklustre.net/projects/ems-flasher/](http://lacklustre.net/projects/ems-flasher/)
 
 
+
+## Just learned about [gbasm](https://github.com/BonsaiDen/gbasm), a javascript gb assembler. Probably works better than rgbds so check it out.
+
+
 ### RGBDS
+
+
 
 Assembler, Linker to turn your .asm into .gb files
 
