@@ -24,12 +24,12 @@ Written by Mike Ryan mikeryan@lacklustre.net and modified by Randy Thiemann usel
 
 
 
-## Just learned about [gbasm](https://github.com/BonsaiDen/gbasm), a javascript gb assembler. Probably works better than rgbds so check it out.
 
 
 ### RGBDS
 
 
+## Just learned about [gbasm](https://github.com/BonsaiDen/gbasm), a javascript gb assembler. Probably works better than rgbds so check it out.
 
 Assembler, Linker to turn your .asm into .gb files
 
